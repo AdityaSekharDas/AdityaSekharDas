@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a B.Tech Computer Science (1st Year) student at SOA ITER (2025–2029) with a strong interest in 💻 software development and technology. I’m passionate about coding, problem-solving, and continuously learning new things. Currently, I’m focused on building a solid foundation in Data Structures & Algorithms (C++) and Web Development.
+I’m a B.Tech Computer Science (1st Year) student at SOA ITER (2025–2029) with a strong interest in 💻 software development and technology. I’m passionate about coding, problem-solving, and continuously learning new things. Currently, I’m focused on building a solid foundation in Data Structures & Algorithms (C++) and AI/ML
 
 
 ## 🌐 Socials:
